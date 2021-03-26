@@ -10,6 +10,7 @@ Noteful is a simple yet fully featured note taking application. It has been deve
 
 ## Home Page
 Noteful greets you with a list of all folders and notes available.
+<br>
 <img src="/screenshots/home.png" width="300">
 
 
